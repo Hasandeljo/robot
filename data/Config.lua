@@ -1,27 +1,27 @@
 do local _ = {
-  Bot_id = 602016339,
-  Bot_idapi = 767392925,
+  Bot_id = 1007452806,
+  Bot_idapi = 1678563275,
   RedisIndex = "1",
-  SUDO = 657415607,
-  UsernameApi = "CodeProHelper_Bot",
-  UsernameCli = "CodePro_Source",
+  SUDO = 1574130132,
+  UsernameApi = "HelperShuperbot",
+  UsernameCli = "ShuperTeam",
   admins = {
     {
-      290921433,
-      "@Nimaaadsh"
+      1380383508,
+      "@Shror"
     }
   },
-  bot_token = "767392925:AAHDAweble74a23xDF4IkiOjmfj0uRm2vmw",
-  channel_inline = "L_U_A_TeaM",
-  channel_username = "@L_U_A_TeaM",
+  bot_token = "1678563275:AAEXiPfDsvDOQ8qqWeXJEFKt3EONNyMqCw0",
+  channel_inline = "ShuperTeam",
+  channel_username = "@ShuperTeam",
   gp_sudo = 657415607,
-  link_poshtibani = "http://t.me/sd",
-  linkpardakht = "http://payping.ir/mahdiroo",
-  sudo_username = "@Code_NoOb",
+  link_poshtibani = "http://t.me/ShuperTeam",
+  linkpardakht = "http://payping.ir/ShuperTeam",
+  sudo_username = "@ARDIN_GHYAMT",
   sudo_users = {
-    657415607,
-    767392925,
-    602016339
+    1574130132,
+    1380383508,
+    1007452806
   },
   sudoinline_username = "Code_NoOb",
   userpasswd = "9214",
