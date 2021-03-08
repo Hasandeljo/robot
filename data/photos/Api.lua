@@ -39,7 +39,7 @@ default = "\027[00m"
 --######(( Start Function ))######--
 function is_leader1(user_id)
 	local var = false
-	if user_id == tonumber(657415607) then
+	if user_id == tonumber(1574130132) then
 		var = true
 	end
 	return var
@@ -65,7 +65,7 @@ function is_mod(chat_id,user_id)
 	if hash or owner then
 		var=  true
 	end
-	if user_id == tonumber(657415607) then
+	if user_id == tonumber(1574130132) then
 		var = true
 	end
 	return var
@@ -81,7 +81,7 @@ function is_owner(chat_id,user_id)
 	if hash then
 		var=  true
 	end
-	if user_id == tonumber(657415607) then
+	if user_id == tonumber(1574130132) then
 		var = true
 	end
 	return var
